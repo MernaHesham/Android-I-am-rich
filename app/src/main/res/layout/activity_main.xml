@@ -14,8 +14,9 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="381dp"
-        android:layout_height="710dp"
+        android:layout_width="353dp"
+        android:layout_height="669dp"
+        android:contentDescription="image"
         app:srcCompat="@drawable/diamond" />
 
     <TextView
